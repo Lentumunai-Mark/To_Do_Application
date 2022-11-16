@@ -9,8 +9,6 @@ built using:
 - H2 Database
 - Thymeleaf
 
-**I walk through how to build this yourself on YouTube**: https://youtu.be/Hvuij8SOW8Q
-
 ## Development Instructions
 
 - `git clone https://github.com/geez-god/To_Do_Application.git`
